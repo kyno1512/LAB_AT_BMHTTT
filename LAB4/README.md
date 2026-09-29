@@ -12,7 +12,7 @@
 
 **Lớp: 11TMĐT**
 
-**Link YouTube:https://www.youtube.com/watch?v=\_vERzk-WkXo**
+**Link YouTube:https://youtu.be/_vERzk-WkXo
 
 \## II. NỘI DUNG ĐÃ LÀM ĐƯỢC
 
