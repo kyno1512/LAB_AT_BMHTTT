@@ -41,4 +41,10 @@
 \* Xuất kết quả Nmap ra các định dạng TXT, XML, Grepable và HTML.
 
 \* Lưu ảnh minh chứng và kết quả quét phục vụ báo cáo LAB 4.
+## III. KẾT QUẢ THỰC HIỆN
+
+* Phát hiện thành công các máy đang hoạt động trong mạng Host-Only.
+* Xác định được các cổng TCP/UDP đang mở trên Metasploitable 2.
+* Thu thập được thông tin dịch vụ, phiên bản và hệ điều hành của máy mục tiêu bằng Nmap.
+* Xuất thành công báo cáo Nmap dưới dạng TXT, XML và HTML.
 
